@@ -22,8 +22,8 @@ It is not a full-fledged production application — the goal was to explore **UI
 
 ## 🖼️ Screenshots
 
-- Dashboard Overview → ![Dashboard](<img width="654" height="530" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/2202fdc4-7d2c-4ec4-92ca-a870662b865e" />
-)  
+- Dashboard Overview → ![Dashboard]<img width="654" height="530" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/2202fdc4-7d2c-4ec4-92ca-a870662b865e" />
+
 - Expenses Section → ![Expenses](<img width="637" height="517" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/fb532ae0-f527-4a88-b47d-af8125b00bac" />
 )  
 - Savings Section → ![Savings](<img width="635" height="520" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/1a89c5e5-2f18-457f-8707-8e20761b73e4" />
