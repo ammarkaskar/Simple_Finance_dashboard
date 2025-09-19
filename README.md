@@ -38,7 +38,6 @@ finance_dashboard_learning/
  ├── README.md          # Documentation (this file)
  └── screenshots/       # Placeholder for images
 ```
-
 ---
 
 ## ⚠️ Note
